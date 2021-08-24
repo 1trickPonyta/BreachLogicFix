@@ -26,6 +26,8 @@ When these conditions are met (obviously this is pretty rare), the game tries to
 
 =================================================================
 
+Note: The following bug has been fixed in the base game and the fix has therefore been removed from this mod.
+
 Another problem that can arise more commonly, due to perhaps some kind of oversight, is that mech breach raids that include at least one Centipede with an Inferno Cannon will sometimes bug out. 
 
 Each time the raid calculates a building (wall, door, etc) to destroy on its path to your base, there is a 20% chance of activating a weird condition centering around one of those Centipedes that causes the Termites to not know where to stand to shoot at the target building. As a result, the entire raid stops advancing and wanders around the immediate area.

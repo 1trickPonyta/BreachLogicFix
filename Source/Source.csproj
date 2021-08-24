@@ -55,7 +55,6 @@
   <ItemGroup>
     <Compile Include="Debug.cs" />
     <Compile Include="BreachLogicFixMod.cs" />
-    <Compile Include="Patch_LordToil_AssaultColonyBreaching.cs" />
     <Compile Include="Patch_IntGrid.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
